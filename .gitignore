@@ -1,0 +1,22 @@
+# Secrets — NEVER commit these
+.env
+*.env
+!.env.example
+
+# Local data cache — pulled from the client's API, not source code
+cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS / editor noise
+.DS_Store
+.idea/
+.vscode/
+*.log
