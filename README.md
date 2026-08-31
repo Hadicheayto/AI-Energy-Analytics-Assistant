@@ -1,4 +1,4 @@
-# Ark Energy  Natural Language Energy Analytics Assistant
+# Natural Language Energy Analytics Assistant
 
 A prototype that lets Ark Energy consultants ask plain-language questions about
 electricity consumption at two client organizations  **Food Corp.** (food
